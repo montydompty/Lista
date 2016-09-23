@@ -1,4 +1,5 @@
-/*Montoya Rangel luis Rodrigo
+/*Created by Claudio Ibáñez Garduño and Rodrigo Montoya Rangel on 17/09/16.
+ Copyright (c) 2016 Claudio Ibáñez Garduño & Rodrigo Montoya Rangel. All rights reserved.
 Clse nodo con atributos y métodos*/
 
 #include <iostream>

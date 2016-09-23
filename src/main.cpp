@@ -1,4 +1,5 @@
-/*Montoya Rangel luis Rodrigo
+/*Created by Claudio Ibáñez Garduño and Rodrigo Montoya Rangel on 17/09/16.
+ Copyright (c) 2016 Claudio Ibáñez Garduño & Rodrigo Montoya Rangel. All rights reserved.
 Método principal de la lista*/
 
 #include "Lista.h"
@@ -11,13 +12,12 @@ int main()
 	l.AddInicio(5);
 	l.AddFinal(9);
 	l.AddInicio(6);
-	l.AddRef(25,5);
+	l.AddRef(10,5);
 	l.AddInicio(7);
 	l.RemoveInicio();
 	l.RemoveFinal();
-	l.AddRef(15,6);
-	l.BuscarElemento(43);
 	l.RemoveRef(4);
+	l.BuscarElemento(15);
 	l.Show();
 	l.VaciarLista();
 	l.Show();	
